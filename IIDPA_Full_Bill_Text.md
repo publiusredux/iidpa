@@ -69,22 +69,28 @@ Congress finds that:
 ## **1.5 Definitions**
 For purposes of this Act:
 
-- **Unlawful presence:** Presence without lawful INA status;  
-- **Minor civil immigration violation:** Overstay/lapse <180 days, no fraud or criminal conduct;  
-- **Disqualifying offense:** Any offense listed in Section 3;  
-- **Compliance window:** 180-day application period;  
-- **English proficiency:** As used for naturalization, with hardship waivers;  
-- **Worker Compliance Visa (WCV):** Temporary renewable visa;  
-- **Conditional Residency (CR):** Temporary lawful status under a Door;  
-- **Enhanced voluntary departure:** Door 1 pathway;  
-- **Strike:** Civil penalty under Section 5;  
-- **Due process:** Notice, hearing, right to counsel (at personal expense), and appeal;  
-- **Systemic violation:** 3+ violations of Section 1.4 in 12 months;  
-- **Extreme humanitarian case:** Hardship involving U.S.-citizen dependents or medical emergency;  
-- **Alternative civilian service:** AmeriCorps or similar;  
-- **Small employer:** <50 employees per 26 U.S.C. §414(b)-(c);  
-- **Fraudulent application:** Subject to INA §212(a)(6)(C);  
-- **Substantiated complaint:** Verified through administrative or IG findings.
+- **Unlawful presence:** As defined under INA §212(a)(9)(B).  
+- **Minor civil immigration violation:** Overstay or lapse under 180 days without fraud or criminal conduct.  
+- **Disqualifying offense:** Any offense enumerated in Section 3.  
+- **Compliance window:** 180-day application period designated by DHS.  
+- **English proficiency:** As used for naturalization under INA §312, with hardship waivers.  
+- **Worker Compliance Visa (WCV):** A temporary, renewable nonimmigrant classification created under this Act.  
+- **Conditional Residency (CR):** Temporary lawful status conferred under Doors 2 or 4.  
+- **Enhanced voluntary departure:** Voluntary departure under Door 1 with biometric verification and penalty waivers.  
+- **Strike:** A civil immigration penalty assessed under Section 5.  
+- **Due process:** Notice, hearing, ability to present evidence, and right to obtain legal counsel at personal expense.  
+- **Systemic violation:** Three or more confirmed violations of Section 2 within 12 months by an agency or subcomponent.  
+- **Extreme humanitarian case:** Includes U.S.-citizen dependent hardship, life-threatening medical need, or similar circumstances.  
+- **Alternative civilian service:** AmeriCorps or other qualifying programs designated under 42 U.S.C. §12501 et seq.  
+- **Small employer:** Fewer than 50 employees, consistent with 26 U.S.C. §414(b)-(c).  
+- **Fraudulent application:** As defined under INA §212(a)(6)(C).  
+- **Substantiated complaint:** A complaint verified by the Office of Inspector General or an administrative investigative body.  
+
+### **Additional Clarifying Definitions**
+- **Enhanced surveillance:** Use of fixed towers, autonomous sensors, UAVs, mobile surveillance systems, and integrated data systems consistent with 8 U.S.C. §1103 note.  
+- **Integrity audit:** A structured review of employer compliance under amended INA §274A(d)(4), including document checks, payroll verification, and anomaly detection.  
+- **Integrated data system:** A cross-agency platform linking DHS, DOL, and DOJ databases using privacy-preserving protocols under 6 U.S.C. §1523(b).
+
 
 ---
 
