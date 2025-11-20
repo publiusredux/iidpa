@@ -94,7 +94,7 @@ Improves labor enforcement, reduces unauthorized hiring, protects workers, and e
 
 **What it does:**  
 - Allows eligible individuals to earn status through military or civilian national service.  
-- Authorizes up to 2,000 military slots and 5,000 civilian slots annually.  
+- Authorizes up to 2,000 military slots and 5,000 civilian slots annually (adjustable by DHS based on demand and capacity). 
 - Requires 4 years of service and reserve obligations (military track).  
 - Leads to Conditional Residency, LPR status, and fast-track naturalization.
 
