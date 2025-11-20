@@ -10,7 +10,6 @@ This repository contains the full legislative packet for the **Immigration Integ
 - **Simulated_CBO_Score.md**  
 - **LICENSE**
 
-(These files will appear as they are added.)
 
 ## Status
 
