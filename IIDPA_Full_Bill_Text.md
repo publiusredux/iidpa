@@ -4,6 +4,22 @@ A Bill
 
 To establish an orderly immigration compliance framework; deter repeated violations; protect constitutional rights; strengthen labor enforcement; and reduce long-term unlawful presence while respecting the rule of law.
 
+TABLE OF CONTENTS
+
+Section 1. Short Title; Purpose; Findings; Definitions
+Section 2. Enforcement Limitations
+Section 3. Disqualifying Offenses
+Section 4. Compliance Pathways (“Four Doors”)
+Section 5. Two-Strike System
+Section 6. Retroactivity and Transition
+Section 7. Sunset and Long-Term Operation
+Section 8. Oversight, Appeals, and Agency Penalties
+Section 9. Fiscal Provisions
+Section 10. Severability
+Section 11. Effective Date
+Section 12. Border Security & Humanitarian Provisions
+Section 13. Rule of Construction
+
 Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
 SECTION 1. SHORT TITLE; PURPOSE; FINDINGS; DEFINITIONS
 1.1 Short Title
@@ -90,7 +106,7 @@ Small employer: Fewer than 50 employees under 26 U.S.C. §414(b)-(c);
 
 Fraudulent application: Subject to INA §212(a)(6)(C) penalties;
 
-Substantiated complaint: Verified through administrative determination or IG investigative findings.
+Substantiated complaint: Verified through administrative determination or IG findings.
 
 SECTION 2. ENFORCEMENT LIMITATIONS
 2.1 Requirements for Stops and Identification
@@ -202,7 +218,7 @@ DOOR 3 — LABOR INTEGRITY TRACK
 
 Amends INA §274A to implement:
 
-A 5-year national phase-in;
+5-year national phase-in;
 
 Pilot in 5 states;
 
@@ -232,7 +248,7 @@ Tax compliance;
 
 Eligibility for Door 2 thereafter.
 
-Information in WCV filings may not be used for immigration enforcement except in cases of fraud, national security, or disqualifying offenses.
+WCV information may not be used for enforcement except in cases of fraud, national security, or disqualifying offenses.
 
 DOOR 4 — NATIONAL SERVICE TRACK
 4.11 Eligibility
@@ -245,11 +261,11 @@ Conditional pre-service status under amended 10 U.S.C. §504;
 
 Up to 2,000 military slots/year;
 
-Up to 5,000 civilian national-service slots/year.
+Up to 5,000 civilian service slots/year.
 
 4.12 Requirements
 
-4 years active service or civilian service;
+4 years active or civilian service;
 
 4 years inactive reserve for military;
 
@@ -261,7 +277,7 @@ Conditional Residency;
 
 LPR after completion;
 
-Accelerated naturalization;
+Fast-track naturalization;
 
 Revocable for misconduct or fraud.
 
@@ -296,7 +312,7 @@ SECTION 6. RETROACTIVITY AND TRANSITION
 
 Strikes apply only to post-enactment conduct;
 
-36-month transition period, funded under Section 9.
+36-month transition period funded under Section 9.
 
 SECTION 7. SUNSET AND LONG-TERM OPERATION
 
@@ -305,12 +321,12 @@ a. Door 1 expires;
 b. Doors 2–4 become permanent;
 c. Strike system continues.
 
-A 6-month grace period applies for pending Door 1 cases.
+6-month grace period for pending Door 1 applicants.
 
 SECTION 8. OVERSIGHT, APPEALS, AND AGENCY PENALTIES
 8.1 Immigration Integrity Inspector General
 
-An independent IG shall issue annual reports on:
+Annual reports shall include:
 
 Systemic violations;
 
@@ -332,17 +348,17 @@ Administrative compensation for individuals harmed.
 
 SECTION 9. FISCAL PROVISIONS
 
-Programs funded by penalties, fees, DHS/DOL reallocations, and capped appropriations of $15–30 billion across the authorization period;
+Programs funded by penalties, fees, DHS/DOL reallocations, and capped appropriations of $15–$30 billion;
 
 Fee schedules established via regulation;
 
-CBO score required within 120 days of enactment;
+CBO score required within 120 days;
 
 Nothing herein authorizes unlimited mandatory spending.
 
 SECTION 10. SEVERABILITY
 
-Invalid provisions do not affect the remainder of this Act.
+If any provision is held invalid, the remainder shall not be affected.
 
 SECTION 11. EFFECTIVE DATE
 
@@ -351,7 +367,7 @@ This Act takes effect 180 days after enactment.
 SECTION 12. BORDER SECURITY & HUMANITARIAN PROVISIONS
 12.1 Border Resources
 
-Allocates $5 billion for:
+$5 billion for—
 
 Sensors, drones, aerial surveillance;
 
@@ -363,15 +379,9 @@ Integrated data systems.
 
 Case-by-case waivers for Doors 2–4 for U.S.-citizen dependents or medical hardship.
 
-12.3 Border Reporting Metrics
+12.3 Border Metrics
 
-Annual reporting on:
-
-Encounters;
-
-Backlogs;
-
-Unlawful-presence trends.
+Annual reporting on encounters, backlogs, and unlawful-presence trends.
 
 SECTION 13. RULE OF CONSTRUCTION
 
