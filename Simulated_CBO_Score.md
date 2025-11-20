@@ -1,133 +1,114 @@
-# Simulated Budgetary Analysis (CBO-Style Estimate)  
-### Immigration Integrity and Due Process Act (IIDPA)  
-Prepared by **Publius Redux**  
-*(Illustrative model based on publicly available data and CBO scoring conventions. Not an official CBO estimate.)*
+# Simulated Budgetary Analysis  
+## Immigration Integrity and Due Process Act (IIDPA)  
+*Prepared by **Publius Redux***  
+*(Illustrative estimate based on public data and CBO scoring conventions. Not an official CBO estimate.)*
 
 ---
 
-## **I. Overview**
+# **I. Overview**
 
-This simulated analysis approximates how the Congressional Budget Office (CBO) might evaluate the fiscal impact of the Immigration Integrity and Due Process Act (IIDPA) over a standard 10-year budget window (FY2026–2035).  
-The estimate uses conservative assumptions drawn from historical CBO analyses of immigration legislation, DHS operational data, and federal cost models for visa processing, enforcement, and workforce programs.
+This document provides an illustrative approximation of how the Congressional Budget Office (CBO) might evaluate the fiscal impact of the Immigration Integrity and Due Process Act (IIDPA) over a standard 10-year budget window (FY2026–2035). The analysis follows CBO formatting conventions, using conservative assumptions drawn from public DHS data, historical CBO reports, and federal cost models.
 
-IIDPA is expected to produce **a neutral to modestly positive net budget impact**, with most costs occurring in the first 5 years and most revenue gains emerging in years 3–10.
-
----
-
-## **II. Key Baseline Assumptions**
-
-- **Participation Rates:** 30–50% uptake across Doors 1–4, consistent with voluntary departure and legalization participation rates seen in prior programs.  
-- **Population Scope:** Several million unauthorized individuals currently reside in the United States; precise counts vary in federal estimates.  
-- **Timeframe:** 10-year scoring window (FY2026–2035).  
-- **Economic Effects:** Increased legal workforce participation yields higher payroll-tax revenue and GDP output.  
-- **Offsets:** Application fees, penalties, and tax compliance contribute to revenue.  
-- **Savings:** Improved enforcement consistency, reduced backlogs, and reduced unlawful presence lower state and federal service burdens over time.
+IIDPA is projected to have a **neutral to modestly deficit-reducing** impact over 10 years, with most costs occurring early and most revenue emerging in mid- to late-window.
 
 ---
 
-## **III. Estimated Federal Outlays (Costs)**
+# **II. Key Baseline Assumptions**
 
-### **1. E-Verify Expansion & Labor Integrity Systems (Door 3)**  
-- 5-year national phase-in, technology upgrades, audits  
-- **Estimated Cost:** **$10–15B** over 10 years
-
-### **2. Border Security & Technology Investments (Section 12)**  
-- Sensors, drones, surveillance, data integration, staffing  
-- **Estimated Cost:** **$8–10B** over 10 years
-
-### **3. National Service Pathway (Door 4)**  
-- Civilian and military program administration  
-- **Estimated Cost:** **$6–7B** over 10 years
-
-### **4. Processing Capacity, Adjudications & Appeals (Doors 2–4, Section 8)**  
-- USCIS, ICE, IG oversight, digital case systems  
-- **Estimated Cost:** **$10B** over 10 years
-
-### **5. Transition & Contingency Funding (36-Month Ramp-Up)**  
-- Infrastructure, staffing, public-facing systems  
-- **Estimated Cost:** **$5B** one-time
-
-### **Total Estimated Direct Costs:**  
-### **$39–47B** (primarily discretionary)
+- **Participation Rate:** 30–50% uptake for Doors 1–4  
+- **Population Scope:** Several million unauthorized individuals reside in the U.S.  
+- **Budget Window:** FY2026–2035  
+- **Revenue Sources:** Application fees, visa fees, employer penalties, increased tax compliance  
+- **Savings Drivers:** Reduced unlawful presence, fewer enforcement disparities, reduced backlogs  
+- **Economic Effects:** Legal workforce expansion increases GDP and tax receipts  
 
 ---
 
-## **IV. Estimated Revenues & Offsets**
+# **III. Estimated Federal Outlays (Costs)**  
+### *(10-Year Window, FY2026–2035)*
 
-### **1. Penalties & Fees**  
-Includes:  
-- Door applications  
-- Worker Compliance Visa fees  
-- E-Verify violation penalties  
-- Civil penalties for systemic employer violations  
-- **Estimated Revenue:** **$10–15B**
+### **Table 1 — Estimated Federal Outlays**
 
-### **2. Tax Compliance & Payroll Revenue (Doors 2 & 3)**  
-- Increased withholding from legalized employment  
-- Back-tax payments and installment agreements  
-- **Estimated Revenue:** **$15–25B**
+| Component | Description | Estimated Cost |
+|----------|-------------|----------------|
+| **E-Verify Expansion (Door 3)** | National phase-in, audits, tech upgrade | **$10B–$15B** |
+| **Border Technology (Section 12)** | Sensors, drones, integrated systems, staffing | **$8B–$10B** |
+| **National Service Program (Door 4)** | Civilian placements, military admin | **$6B–$7B** |
+| **Processing & Appeals** | USCIS capacity, ICE oversight, IG reporting | **$10B** |
+| **Transition & Contingency Fund** | 36-month implementation build-out | **$5B** |
+| **Total Projected Outlays** | — | **$39B–$47B** |
 
-### **3. GDP & Labor-Market Growth Effects**  
-- Expanded legal workforce participation  
-- Modeled at ~0.1–0.2% annual GDP increase (aligned with prior CBO analyses of immigration bills)  
-- **Estimated Revenue:** **$5–10B**
-
-### **4. Savings from Reduced Unlawful Presence**  
-- Lower emergency service demand  
-- More efficient enforcement  
-- Reduced detention and court backlogs  
-- **Estimated Savings:** **$5–10B**
-
-### **Total Estimated Revenues/Savings:**  
-### **$35–60B**
+Most costs fall under **discretionary appropriations**, not mandatory spending.
 
 ---
 
-## **V. Net Deficit Impact**
+# **IV. Estimated Revenues & Offsets**
 
-**Projected Net Effect (10-year window):**  
-### **–$1B to –$13B (deficit reduction)**  
-IIDPA is expected to be deficit-neutral to modestly deficit-reducing over 10 years due to substantial offsets from fees, penalties, increased tax compliance, and economic growth.
+### **Table 2 — Revenues & Savings**
 
-### **PAYGO Impact:**  
-- **Likely neutral or positive**, depending on participation rates and economic conditions.  
-- Mandatory spending exposure is minimal due to statutory funding caps.
-
-### **Dynamic Scoring Considerations:**  
-Including GDP effects:  
-- Additional **$10–20B** in federal revenue is plausible but uncertain.  
-- Participation and enforcement efficacy are the largest variables affecting outcomes.
+| Source | Description | Estimated Revenue/Savings |
+|--------|-------------|---------------------------|
+| **Penalties & Fees** | Applications, WCV fees, employer fines | **$10B–$15B** |
+| **Tax Compliance (Doors 2 & 3)** | Payroll withholding, back-tax agreements | **$15B–$25B** |
+| **GDP Growth Effects** | ~0.1–0.2% annual GDP increase | **$5B–$10B** |
+| **Reduced Unlawful-Presence Costs** | Emergency services, court backlogs, enforcement efficiency | **$5B–$10B** |
+| **Total Revenue/Savings** | — | **$35B–$60B** |
 
 ---
 
-## **VI. Uncertainty & Sensitivity Notes**
+# **V. Net Deficit Impact**
 
-- **Higher participation** → more revenue + more processing costs  
-- **Lower participation** → lower revenue + lower processing costs  
-- **Higher enforcement compliance** → fewer penalties, but more payroll revenue  
-- **Economic downturn** → reduces revenue estimates  
-- **Technology/implementation delays** → may shift upfront costs into later years
+### **Table 3 — Net Fiscal Effect**
 
-CBO would refine these assumptions using classified, agency-submitted operational data and dynamic microsimulation models.
+| Category | Amount |
+|----------|--------|
+| **Total Costs** | $39B–$47B |
+| **Total Revenue/Savings** | $35B–$60B |
+| **Net Budget Impact** | **–$1B to –$13B** (deficit reduction) |
 
----
+### **PAYGO:**  
+Likely **neutral to positive**, given capped spending and strong fee/penalty offsets.
 
-## **VII. Comparison to Prior Scored Bills**
-
-IIDPA’s fiscal profile aligns with immigration bills that combine enforcement modernization with legal pathways (e.g., 2023 cross-party proposals).  
-Compared to these bills:
-
-- IIDPA has **stronger built-in revenue sources** (penalties, WCV, labor enforcement).  
-- Spending is capped and heavily discretionary.  
-- Compliance pathways generate tax revenue earlier in the scoring window.
+### **Dynamic Scoring:**  
+If GDP effects materialize at midpoint projections:  
+- Additional **$10B–$20B** in federal revenue is plausible.  
+- Enforcement consistency & labor participation strengthen the outlook.  
 
 ---
 
-### **Conclusion**  
-Under standard scoring assumptions, IIDPA is expected to:  
-- Produce **a neutral or positive deficit impact**,  
-- Modernize immigration enforcement efficiently,  
-- Expand legal workforce participation, and  
-- Reduce long-term unlawful presence with limited fiscal risk.
+# **VI. Sensitivity & Uncertainty Analysis**
 
-This simulation is for illustrative purposes only and does not represent an official CBO determination.
+- Higher participation → higher revenue, slightly increased processing cost  
+- Lower participation → lower revenue, lower processing cost  
+- Enforcement compliance → fewer penalties, more payroll tax revenue  
+- Tech delays → early costs move into later years  
+- Economic downturn → reduces payroll revenue  
+
+CBO would refine assumptions with internal DHS + SSA operational datasets and microsimulation modeling.
+
+---
+
+# **VII. Comparison to Prior Scored Legislation**
+
+| Bill | CBO Estimate | Comparison to IIDPA |
+|------|--------------|----------------------|
+| **Dignity Act (2023)** | ~$25B net cost pre-offsets | IIDPA stronger revenue + tighter caps |
+| **Gang of Eight (2013)** | Initial deficit ↑ / long-run ↓ | IIDPA avoids large mandatory spend |
+| **Border Security Packages** | High discretionary cost | IIDPA offsets substantially more |
+
+IIDPA relies on fee-funded pathways, employer penalties, and structured compliance measures, yielding a more balanced budget profile.
+
+---
+
+# **VIII. Conclusion**
+
+Under standard CBO-style scoring conventions, IIDPA is projected to:
+
+- Be **deficit-neutral to modestly deficit-reducing** over 10 years  
+- Modernize immigration enforcement efficiently  
+- Expand legal workforce participation & payroll compliance  
+- Reduce long-term unlawful presence with minimal fiscal risk  
+- Avoid unfunded mandates or large mandatory obligations  
+
+This assessment is illustrative and **not** an official CBO estimate.
+
