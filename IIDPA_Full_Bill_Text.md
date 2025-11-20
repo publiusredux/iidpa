@@ -67,24 +67,32 @@ Congress finds that:
 ---
 
 ## **1.5 Definitions**
-For purposes of this Act:
 
-- **Unlawful presence:** As defined under INA §212(a)(9)(B).  
-- **Minor civil immigration violation:** Overstay or lapse under 180 days without fraud or criminal conduct.  
-- **Disqualifying offense:** Any offense enumerated in Section 3.  
-- **Compliance window:** 180-day application period designated by DHS.  
-- **English proficiency:** As used for naturalization under INA §312, with hardship waivers.  
-- **Worker Compliance Visa (WCV):** A temporary, renewable nonimmigrant classification created under this Act.  
-- **Conditional Residency (CR):** Temporary lawful status conferred under Doors 2 or 4.  
-- **Enhanced voluntary departure:** Voluntary departure under Door 1 with biometric verification and penalty waivers.  
-- **Strike:** A civil immigration penalty assessed under Section 5.  
-- **Due process:** Notice, hearing, ability to present evidence, and right to obtain legal counsel at personal expense.  
-- **Systemic violation:** Three or more confirmed violations of Section 2 within 12 months by an agency or subcomponent.  
-- **Extreme humanitarian case:** Includes U.S.-citizen dependent hardship, life-threatening medical need, or similar circumstances.  
-- **Alternative civilian service:** AmeriCorps or other qualifying programs designated under 42 U.S.C. §12501 et seq.  
-- **Small employer:** Fewer than 50 employees, consistent with 26 U.S.C. §414(b)-(c).  
-- **Fraudulent application:** As defined under INA §212(a)(6)(C).  
-- **Substantiated complaint:** A complaint verified by the Office of Inspector General or an administrative investigative body.  
+The following terms are defined for clarity and consistency with the Immigration and Nationality Act (INA) and constitutional requirements:
+
+### **Status-Related Terms**
+- **Conditional Residency (CR):** Temporary lawful status under Doors 2 or 4.
+- **Compliance window:** The 180-day period designated by DHS for pathway applications.
+- **Enhanced voluntary departure:** Voluntary departure consistent with INA §240B, with biometric verification and penalty waivers.
+- **Minor civil immigration violation:** Overstay or lapse under 180 days without fraud or criminal conduct.
+- **Unlawful presence:** Presence without admission or parole as described in INA §212(a)(9)(B).
+- **Worker Compliance Visa (WCV):** Temporary, renewable nonimmigrant classification under Door 3.
+
+### **Process & Oversight Terms**
+- **Due process:** Rights guaranteed under the Fifth Amendment and INA §240, including notice, hearing, ability to present evidence, and right to counsel at personal expense.
+- **Extreme humanitarian case:** Hardship involving U.S.-citizen dependents, life-threatening medical conditions, or similar circumstances.
+- **Fraudulent application:** Conduct described in INA §212(a)(6)(C).
+- **Strike:** A civil penalty applied under Section 5.
+- **Substantiated complaint:** A complaint verified by the Office of Inspector General or an authorized investigative body.
+- **Systemic violation:** Three or more confirmed violations of Section 2 within a 12-month period.
+
+### **Qualification Requirements**
+- **English proficiency:** Basic comprehension of ordinary English for naturalization purposes under INA §312, with hardship waivers where applicable.
+- **Small employer:** As defined under 26 U.S.C. §414(b)-(c).
+
+### **Service & Program Terms**
+- **Alternative civilian service:** AmeriCorps or similar service authorized under 42 U.S.C. §12501 et seq.
+
 
 ### **Additional Clarifying Definitions**
 - **Enhanced surveillance:** Use of fixed towers, autonomous sensors, UAVs, mobile surveillance systems, and integrated data systems consistent with 8 U.S.C. §1103 note.  
