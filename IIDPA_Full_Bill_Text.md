@@ -4,21 +4,22 @@ A Bill
 
 To establish an orderly immigration compliance framework; deter repeated violations; protect constitutional rights; strengthen labor enforcement; and reduce long-term unlawful presence while respecting the rule of law.
 
-TABLE OF CONTENTS
+### TABLE OF CONTENTS
 
-Section 1. Short Title; Purpose; Findings; Definitions  
-Section 2. Enforcement Limitations  
-Section 3. Disqualifying Offenses  
-Section 4. Compliance Pathways (“Four Doors”)  
-Section 5. Two-Strike System  
-Section 6. Retroactivity and Transition  
-Section 7. Sunset and Long-Term Operation  
-Section 8. Oversight, Appeals, and Agency Penalties  
-Section 9. Fiscal Provisions  
-Section 10. Severability  
-Section 11. Effective Date  
-Section 12. Border Security & Humanitarian Provisions  
-Section 13. Rule of Construction
+- Section 1. Short Title; Purpose; Findings; Definitions  
+- Section 2. Enforcement Limitations  
+- Section 3. Disqualifying Offenses  
+- Section 4. Compliance Pathways (“Four Doors”)  
+- Section 5. Two-Strike System  
+- Section 6. Retroactivity and Transition  
+- Section 7. Sunset and Long-Term Operation  
+- Section 8. Oversight, Appeals, and Agency Penalties  
+- Section 9. Fiscal Provisions  
+- Section 10. Severability  
+- Section 11. Effective Date  
+- Section 12. Border Security & Humanitarian Provisions  
+- Section 13. Rule of Construction
+
 
 
 Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
