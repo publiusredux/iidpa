@@ -305,7 +305,7 @@ Annual reports shall include:
 ---
 
 # **SECTION 9. FISCAL PROVISIONS**
-- Funded through penalties, fees, DHS/DOL reallocations, and capped appropriations of **$15–$30B**;  
+- Funded through penalties, fees, DHS/DOL reallocations, and capped appropriations not exceeding **$15–$30B over 10 years**;
 - Fee schedules via regulation;  
 - CBO score required within 120 days;  
 - No unlimited mandatory spending.
