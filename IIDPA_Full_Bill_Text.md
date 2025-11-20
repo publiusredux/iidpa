@@ -94,10 +94,14 @@ The following terms are defined for clarity and consistency with the Immigration
 - **Alternative civilian service:** AmeriCorps or similar service authorized under 42 U.S.C. §12501 et seq.
 
 
-### **Additional Clarifying Definitions**
-- **Enhanced surveillance:** Use of fixed towers, autonomous sensors, UAVs, mobile surveillance systems, and integrated data systems consistent with 8 U.S.C. §1103 note.  
-- **Integrity audit:** A structured review of employer compliance under amended INA §274A(d)(4), including document checks, payroll verification, and anomaly detection.  
-- **Integrated data system:** A cross-agency platform linking DHS, DOL, and DOJ databases using privacy-preserving protocols under 6 U.S.C. §1523(b).
+### **Clarifying Definitions**
+The following terms are further clarified with references to existing statutes and case law for operational precision:
+
+- **Enhanced surveillance:** Use of fixed towers, autonomous sensors, UAVs, and mobile surveillance systems consistent with 8 U.S.C. §1103 note.
+- **Integrated data system:** Cross-agency DHS–DOL–DOJ platform using privacy-preserving protocols under 6 U.S.C. §1523(b), as approved by the Office of Management and Budget.
+- **Integrity audit:** A compliance review under amended INA §274A(d)(4), including document verification, payroll analysis, and anomaly detection.
+- **Reasonable suspicion standard:** Consistent with constitutional limits and Supreme Court precedent, including *Arizona v. United States*, 567 U.S. 387 (2012).
+
 
 
 ---
