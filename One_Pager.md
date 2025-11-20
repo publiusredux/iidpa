@@ -92,10 +92,11 @@ Ineligible for all pathways:
 
 ## **Why IIDPA Works**
 - Protects rights and restores lawful process  
-- Reduces unlawful presence sustainably  
-- Strengthens border and labor enforcement  
-- Offers realistic compliance options without mass deportation or blanket amnesty  
-- Designed for bipartisan consideration  
+- Reduces unlawful presence sustainably
+- Strengthens border and labor enforcement
+- Offers realistic compliance options without mass deportation or blanket amnesty
+- Delivers net fiscal savings through fees and tax compliance
+- Designed for bipartisan consideration
 
 ---
 
