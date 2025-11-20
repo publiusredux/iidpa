@@ -15,9 +15,9 @@ Use GitHub Issues for:
 
 ### **2. Submit a Pull Request**
 For direct edits:
-- Fork the repository  
-- Make your changes  
-- Submit a pull request with a brief explanation  
+- Fork the repository
+- Make your changes
+- Submit a pull request with a clear commit message and brief explanation
 
 ### **3. Start a Discussion**
 For larger proposals—new sections, alternative pathway designs, or complex legal questions—open a Discussion thread before drafting.
