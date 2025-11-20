@@ -5,6 +5,27 @@
 
 ---
 
+### **Methodology Overview**
+This simulated scoring relies on CBO-style conventions and publicly available sources:
+
+- DHS Estimated Unauthorized Resident Population (EURP), 2023 edition  
+- USCIS adjudication and processing cost models (FY2018–FY2023)  
+- Social Security Administration payroll-compliance elasticity models  
+- Border technology procurement data via CBP Acquisition Life Cycle documentation  
+- E-Verify cost estimates referencing DHS’s “Verification Modernization Life Cycle Cost Estimate” (FY2016), rather than OIG-20-79  
+- Historical CBO scores for comparable bills (e.g., S.744 (2013), Dignity Act (2023))
+
+**Data Vintage:**  
+Where possible, FY2023 datasets were used; fiscal projections are adjusted to 2025 dollars.
+
+**Disclaimer:**  
+This is a preliminary simulation. Actual CBO scoring would vary depending on final legislative text, participation rates, agency rulemaking, and economic assumptions.
+
+---
+
+# **I. Overview**
+
+
 # **I. Overview**
 
 This document provides an illustrative approximation of how the Congressional Budget Office (CBO) might evaluate the fiscal impact of the Immigration Integrity and Due Process Act (IIDPA) over a standard 10-year budget window (FY2026–2035). The analysis follows CBO formatting conventions, using conservative assumptions drawn from public DHS data, historical CBO reports, and federal cost models.
