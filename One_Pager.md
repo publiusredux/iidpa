@@ -1,28 +1,102 @@
-#### 3. One-Pager
-**Immigration Integrity and Due Process Act (IIDPA) – One-Pager**  
+# Immigration Integrity and Due Process Act (IIDPA)
+### One-Page Summary  
+Prepared by **Publius Redux**
 
-**Problem**: An estimated 14–15.4 million individuals reside in the U.S. without lawful status, straining enforcement, courts, labor markets, and public services. Existing laws lack clear, constitutional pathways, leading to inconsistency, exploitation, and eroded trust.  
+---
 
-**Solution**: IIDPA creates a structured, rights-respecting framework with four compliance "Doors," a two-strike deterrence system, enhanced security, and oversight—avoiding mass amnesty or deportations while aligning with INA and constitutional standards.  
+## **Purpose**
+The Immigration Integrity and Due Process Act (IIDPA) establishes a balanced, constitutional framework to reduce long-term unlawful presence, strengthen labor enforcement, protect civil liberties, and create lawful, orderly compliance pathways. It offers a practical alternative to both mass amnesty and mass deportation by combining enforcement, due process, and legal pathways.
 
-**Key Components**:  
-- **Enforcement Protections**: No stops based on race/ethnicity/perceived status; requires criminal suspicion; excludes bad-faith evidence (per Supreme Court precedent).  
-- **Disqualifications**: Bars serious offenders (aggravated felonies, violence, child crimes, drug trafficking, terrorism).  
-- **Data Privacy**: Strict minimization standards for collected information, limiting use to adjudication, fraud prevention, and security.  
-- **Four Doors for Compliance**:  
-  - **Door 1**: Voluntary departure with waivers; no strike.  
-  - **Door 2**: 4–8 year residency track to LPR/citizenship via taxes, English, reporting.  
-  - **Door 3**: E-Verify rollout; 3-year work visa with employer incentives/penalties.  
-  - **Door 4**: National service (military/civilian) for fast-track status (capped/adjustable).  
-- **Two-Strike System**: Strike 1 = voluntary departure eligibility + 5-year bar; Strike 2 = permanent ineligibility (humanitarian waiver possible). Strikes apply prospectively only.  
-- **Sunset & Oversight**: Door 1 ends after 15 years; IG reports track 20–40% reduction; appeals and agency penalties ensure fairness.  
-- **Border/Humanitarian**: $5B for tech, agents, data; family waivers.  
-- **Fiscal**: $15–30B capped funding via penalties/fees/reallocations; CBO-required; no unfunded mandates.  
+---
 
-**Implementation**: Effective 180 days post-enactment; 36-month transition; prospective only; data privacy/fraud safeguards.  
+## **Key Goals**
+- Restore lawful immigration processes  
+- Reduce exploitation and unlawful hiring  
+- Protect constitutional rights during enforcement  
+- Provide clear, structured compliance options  
+- Strengthen border security and national security  
+- Modernize labor and service-based immigration mechanisms  
 
-**Benefits**:  
-- **Security/Labor**: Reduces unauthorized work; vets via biometrics.  
-- **Humanitarian**: Due process; pathways for long-term residents.  
-- **Bipartisan Appeal**: Enforcement for conservatives; rights/protections for progressives; fiscal controls for all. Could build coalition among moderates focused on orderly reform.  
-- **Impact**: Orderly resolution, economic contributions, reduced unlawful presence. 
+---
+
+## **Core Components**
+
+### **1. Enforcement Limits & Civil Liberties**
+- No detentions or ID demands without reasonable suspicion of a specific criminal offense  
+- Prohibits enforcement based on race, ethnicity, language, accent, or perceived status  
+- Evidence from egregious constitutional violations inadmissible in civil proceedings  
+- Mandatory DHS data-minimization standards  
+
+---
+
+### **2. Disqualifying Offenses**
+Ineligible for all pathways:  
+- Aggravated felonies  
+- Crimes of violence  
+- Child exploitation offenses  
+- Sex-offender registration violations  
+- Drug trafficking  
+- Terrorism-related offenses  
+
+---
+
+## **3. Four Compliance Pathways (“Four Doors”)**
+
+### **Door 1 — Enhanced Voluntary Departure**
+- One-time, biometric-verified departure  
+- No removal order, no Strike, penalty waivers  
+- Preserves eligibility for legal re-entry  
+
+### **Door 2 — Residency Track**
+- 4–8 years continuous presence, tax compliance, English proficiency  
+- Leads to Conditional Residency → LPR → citizenship eligibility  
+
+### **Door 3 — Labor Integrity Track**
+- National E-Verify rollout (5-year phase-in)  
+- Employer incentives + penalties for systemic violations  
+- Worker Compliance Visa (WCV): 3-year renewable visa with pathway to Door 2  
+
+### **Door 4 — National Service Track**
+- Military or civilian national service (4 years)  
+- Annual caps: 2,000 military / 5,000 civilian service placements  
+- Leads to LPR status and fast-track naturalization  
+
+---
+
+## **4. Two-Strike System**
+**Strike 1:**  
+- Triggered by first post-enactment unlawful entry/overstay  
+- 5-year bar from Doors 2–4  
+- Eligible for voluntary departure or full INA §240 proceedings  
+
+**Strike 2:**  
+- Permanent ineligibility for all Doors  
+- Permanent re-entry bar  
+- Full due-process hearing; limited humanitarian waiver  
+
+---
+
+## **5. Border Security & Humanitarian Measures**
+- $5B for sensors, drones, surveillance, data integration, Border Patrol staffing  
+- Family-unity waivers for Doors 2–4 (medical or dependent hardship)  
+- Annual reporting on encounters, backlogs, and unlawful-presence trends  
+
+---
+
+## **6. Fiscal Framework**
+- Funded through fees, penalties, DHS/DOL reallocations, and $15–30B capped appropriations  
+- Requires CBO score within 120 days  
+- No uncapped mandatory spending  
+
+---
+
+## **Why IIDPA Works**
+- Protects rights and restores lawful process  
+- Reduces unlawful presence sustainably  
+- Strengthens border and labor enforcement  
+- Offers realistic compliance options without mass deportation or blanket amnesty  
+- Designed for bipartisan consideration  
+
+---
+
+Drafted and published under the pseudonym **Publius Redux**.
