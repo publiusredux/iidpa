@@ -2,21 +2,16 @@
 ## Immigration Integrity and Due Process Act (IIDPA)
 
 ### **Overview and Purpose**
-The Immigration Integrity and Due Process Act (IIDPA) is a comprehensive immigration reform proposal addressing the estimated **14–15.4 million** individuals residing in the United States without lawful status. The Act establishes an orderly and constitutionally grounded framework for **compliance, departure, or enforcement**, while protecting civil liberties, enhancing national security, strengthening labor markets, and ensuring due process.
-
+The Immigration Integrity and Due Process Act (IIDPA) is a comprehensive immigration reform proposal addressing the estimated **11–14 million** individuals residing in the United States without lawful status.<grok-card data-id="268e9f" data-type="citation_card"></grok-card><grok-card data-id="e04b23" data-type="citation_card"></grok-card><grok-card data-id="a54cfc" data-type="citation_card"></grok-card><grok-card data-id="9672ff" data-type="citation_card"></grok-card> The Act establishes an orderly and constitutionally grounded framework for **compliance, departure, or enforcement**, while protecting civil liberties, enhancing national security, strengthening labor markets, and ensuring due process.
 Rooted in Congress’s plenary authority and aligned with the Immigration and Nationality Act (INA), IIDPA avoids both mass amnesty and mass removal. Instead, it provides **four structured compliance pathways**, a **two-strike deterrence system**, and **rigorous oversight** designed to restore public trust and long-term stability.
-
 ---
-
 ### **Key Findings and Necessity**
 Congress identifies that:
-
-- Prolonged widespread unlawful presence places significant strain on border enforcement, immigration courts, detention systems, and labor markets.  
-- Existing statutory frameworks provide **no clear, scalable mechanisms** for long-term compliance.  
-- Unlawful presence fosters exploitation, inconsistent enforcement, and public distrust.  
-- A structured, rights-respecting system is needed to restore order and constitutional integrity.  
-
-IIDPA establishes a framework designed to reduce unlawful presence by an estimated **20–40% over 10 years**, measured through DHS’s Estimated Unauthorized Resident Population (EURP) reports.
+- Prolonged widespread unlawful presence places significant strain on border enforcement, immigration courts, detention systems, and labor markets.
+- Existing statutory frameworks provide **no clear, scalable mechanisms** for long-term compliance.
+- Unlawful presence fosters exploitation, inconsistent enforcement, and public distrust.
+- A structured, rights-respecting system is needed to restore order and constitutional integrity.
+IIDPA establishes a framework designed to reduce unlawful presence by an estimated **20–40% over 10 years**, measured through DHS’s Estimated Unauthorized Resident Population (EURP) reports (based on 2023 baseline estimates ranging from 11–14 million across sources like DHS, Pew Research, MPI, and CMS).<grok-card data-id="27d25d" data-type="citation_card"></grok-card><grok-card data-id="4c50bb" data-type="citation_card"></grok-card><grok-card data-id="26a5f7" data-type="citation_card"></grok-card><grok-card data-id="9f5e13" data-type="citation_card"></grok-card>
 
 ---
 
