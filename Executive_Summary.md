@@ -18,7 +18,8 @@ IIDPA establishes a framework designed to reduce unlawful presence by an estimat
 - Prohibits enforcement based on **race, ethnicity, language, or perceived immigration status**.
 - Incorporates Supreme Court limitations on admissible evidence.
 #### Disqualifying Offenses
-Individuals convicted of aggravated felonies, crimes of violence, child exploitation offenses, sex-offender registration violations, drug trafficking, or terrorism are **ineligible** for all compliance pathways.
+Individuals convicted of **serious public safety threats**—including **aggravated felonies** (per INA § 101(a)(43)), **crimes of violence**, **domestic violence misdemeanors**, **child exploitation offenses**, **sex-offender registration violations**, **gang-enhancement convictions**, **drug trafficking**, or **terrorism-related activities**—are **ineligible** for all compliance pathways.  
+See Section 4 for the full statutory list and definitions.
 
 ### Compliance Pathways (“Four Doors”)
 #### Door 1 — Enhanced Voluntary Departure
