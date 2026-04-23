@@ -68,7 +68,7 @@ Congress finds that:
 ### 1.4 Constitutional Enforcement Standards
 
 - All persons within the U.S. are protected by constitutional guarantees, including the Fourth Amendment
-- No officer may detain, question, or compel identification absent **objective, articulable reasonable suspicion** of a specific criminal offense
+- No officer may detain, question, or compel identification absent **reasonable articulable suspicion of a violation of federal immigration law or other criminal offense**
 - Race, ethnicity, national origin, language, accent, appearance alone, or perceived immigration status do **not** constitute reasonable suspicion
 - Enforcement must follow constitutional precedent
 - Nothing herein creates a new cause of action beyond existing constitutional law
@@ -104,12 +104,21 @@ Congress finds that:
 | **Substantiated complaint** | A complaint verified by the Office of Inspector General or an authorized investigative body |
 | **Systemic violation** | Three or more confirmed violations of Section 2 within a 12-month period |
 
+#### Employer & Labor Terms
+
+| Term | Definition |
+|------|------------|
+| **Approved third-party auditor** | A CPA or labor compliance firm authorized by the DOL to conduct Integrity Audits, independent of the audited entity |
+| **Common control** | As defined by 26 U.S.C. §414(b)-(c), including parent-subsidiary relationships, brother-sister corporations, and affiliated service groups |
+| **Good Faith Compliance Certificate** | A one-time certification issued upon successful completion of a DOL-approved Integrity Audit that provides a safe harbor against fragmentation presumptions for prior business restructuring |
+| **Sectoral staggering** | The DHS-managed, phased departure of Strike-eligible workers within a specific NAICS code sector to prevent critical supply chain disruption |
+| **Small employer** | An employer with fewer than 50 employees, calculated by aggregating all entities under common control as defined by 26 U.S.C. §414(b)-(c) |
+
 #### Qualification Requirements
 
 | Term | Definition |
 |------|------------|
 | **English proficiency** | Basic comprehension of ordinary English for naturalization purposes under INA §312, with hardship waivers where applicable |
-| **Small employer** | As defined under 26 U.S.C. §414(b)-(c), with aggregation of entities under common control |
 
 #### Service & Program Terms
 
@@ -123,7 +132,7 @@ Congress finds that:
 |------|------------|
 | **Enhanced surveillance** | Use of fixed towers, autonomous sensors, UAVs, and mobile surveillance systems consistent with 8 U.S.C. §1103 note |
 | **Integrated data system** | Cross-agency DHS-DOL-DOJ platform using privacy-preserving protocols under 6 U.S.C. §1523(b), as approved by the Office of Management and Budget |
-| **Integrity audit** | A compliance review under amended INA §274A(d)(4), including document verification, payroll analysis, and anomaly detection, conducted by a DOL-approved third-party auditor |
+| **Integrity audit** | A compliance review under amended INA §274A(d)(4), including document verification, payroll analysis, and anomaly detection, conducted by a DOL-approved third-party auditor independent of the audited entity |
 | **Reasonable suspicion standard** | Consistent with constitutional limits and Supreme Court precedent, including *Arizona v. United States*, 567 U.S. 387 (2012) |
 
 ---
@@ -132,7 +141,7 @@ Congress finds that:
 
 ### 2.1 Requirements for Stops and Identification
 
-- No officer may detain, stop, or compel identification absent reasonable suspicion of a specific criminal offense
+- No officer may detain, stop, or compel identification absent **reasonable articulable suspicion of a violation of federal immigration law or other criminal offense**
 - Immigration status alone is insufficient
 - This does **not** modify border-checkpoint authority under 8 U.S.C. §1357(a)(3)
 
@@ -140,7 +149,7 @@ Congress finds that:
 
 ### 2.2 Prohibited Bases for Enforcement
 
-Officers may not use any of the following as a basis for enforcement action:
+Officers may not use any of the following as a sole basis for enforcement action:
 
 - Race
 - Ethnicity
@@ -148,6 +157,8 @@ Officers may not use any of the following as a basis for enforcement action:
 - Perceived immigration status
 - Language or accent
 - Appearance alone
+
+These factors do not individually constitute reasonable articulable suspicion. Their presence does not preclude consideration of other objective, articulable circumstances in a totality-of-circumstances analysis consistent with constitutional precedent.
 
 ---
 
@@ -298,7 +309,7 @@ Any noncitizen without a disqualifying offense may elect enhanced voluntary depa
 - Identity verification
 - Departure arrangements
 - One-time use
-- Election of Door 1 constitutes a knowing and voluntary waiver of INA §240 proceedings, preventing subsequent appeals to remain in the country on the basis of the same underlying status
+- Election of Door 1 constitutes a knowing and voluntary waiver of INA §240 proceedings. This waiver is effective upon biometric enrollment and signed acknowledgment, and forecloses subsequent appeals to remain in the country on the basis of the same underlying immigration status. The waiver shall be administered in the applicant's primary language with access to legal counsel at personal expense prior to signing.
 
 #### 4.5 Outcomes
 
@@ -306,7 +317,7 @@ Any noncitizen without a disqualifying offense may elect enhanced voluntary depa
 - Penalty waiver
 - No Strike applied
 - Eligible for future lawful entry
-- **Priority Queue:** Door 1 electors are placed in a priority queue for certain nonimmigrant visa categories, including H-2A agricultural visas and Door 3 Worker Compliance Visas, providing a tangible and expedited path to lawful return
+- **Priority Queue:** Door 1 electors are placed in a priority queue for certain nonimmigrant visa categories, including H-2A agricultural visas and Door 3 Worker Compliance Visas, providing a tangible and expedited path to lawful return compared to individuals who have not engaged with the compliance system
 
 #### 4.6 Limitations
 
@@ -340,6 +351,8 @@ Any noncitizen without a disqualifying offense may elect enhanced voluntary depa
 - Strike 1 imposes a 5-year bar from Door 2
 - Any disqualifying offense terminates eligibility
 
+**Administrative Track:** Uncontested Door 2 applications meeting all eligibility criteria shall be processed through the IIDPA Adjudication Office as a non-adversarial USCIS administrative track, without referral to EOIR immigration courts. EOIR jurisdiction is reserved for contested denials, Strike challenges, and appeals under Section 8.2.
+
 ---
 
 ### Door 3 — Labor Integrity Track
@@ -349,18 +362,16 @@ Any noncitizen without a disqualifying offense may elect enhanced voluntary depa
 Amends INA §274A:
 
 - 5-year national phase-in beginning with a pilot in 5 states
-- Small-employer exemption for employers with fewer than 50 employees, subject to the aggregation rules below
+- Small-employer exemption for employers with fewer than 50 employees, calculated under the aggregation rules in Section 4.11
 - Funding per Section 9
 
 **Anti-Fragmentation Clause**
 
-Entities under common ownership or control as defined under 26 U.S.C. §414(b)-(c) shall be treated as a single employer for purposes of the 50-employee threshold. Common control includes parent-subsidiary relationships, brother-sister corporations, and affiliated service groups as defined under existing IRS guidance.
-
-Restructuring occurring within 24 months prior to E-Verify phase-in triggers a rebuttable presumption of evasion, shifting the burden of proof to the employer. Penalties for proven fragmentation are treated as systemic violations under Section 4.11.
+Entities under common control as defined in Section 1.5 shall be treated as a single employer for purposes of the 50-employee threshold. Restructuring occurring within 24 months prior to E-Verify phase-in triggers a rebuttable presumption of evasion, shifting the burden of proof to the employer. Penalties for proven fragmentation are treated as systemic violations under Section 4.11.
 
 **Safe Harbor — Good Faith Compliance Certificate**
 
-Employers who undergo a DOL-approved third-party Integrity Audit within the first 12 months of E-Verify phase-in shall receive a one-time Good Faith Compliance Certificate. The Certificate waives the rebuttable presumption of evasion for restructuring occurring prior to the audit date. Post-audit fragmentation receives no safe harbor regardless of Certificate status. The Certificate is revocable upon finding of any subsequent willful violation. Audit costs are tax-deductible to reduce barriers to participation for legitimate small businesses.
+Employers who undergo a DOL-approved third-party Integrity Audit within the first 12 months of E-Verify phase-in shall receive a one-time Good Faith Compliance Certificate as defined in Section 1.5. The Certificate waives the rebuttable presumption of evasion for restructuring occurring prior to the audit date. Post-audit fragmentation receives no safe harbor regardless of Certificate status. The Certificate is revocable upon finding of any subsequent willful violation. Audit costs are tax-deductible under 26 U.S.C. §162 to reduce barriers to participation for legitimate small businesses.
 
 #### 4.11 Employer Penalties and Incentives
 
@@ -397,6 +408,8 @@ WCV holders who cannot meet Door 2 standards after the third renewal period are 
 
 A WCV holder who receives a Strike 1 shall have a defined adjudication pathway and shall not automatically lose WCV status pending that adjudication.
 
+**Administrative Track:** Uncontested Door 3 applications meeting all eligibility criteria shall be processed through the IIDPA Adjudication Office as a non-adversarial USCIS administrative track, without referral to EOIR immigration courts.
+
 > WCV information is not usable for enforcement purposes except in cases of fraud, national security concern, or disqualifying offenses.
 
 ---
@@ -405,16 +418,16 @@ A WCV holder who receives a Strike 1 shall have a defined adjudication pathway a
 
 #### 4.13 Strike 1 Conversion to Door 3
 
-Strike 1 recipients currently employed by an E-Verify compliant employer at the time the Strike is triggered are eligible for conversion to Door 3 status in lieu of immediate departure, subject to the following conditions:
+Strike 1 recipients currently employed by an E-Verify compliant employer at the time the Strike is triggered are eligible for conversion to Door 3 WCV status within a 90-day election window, in lieu of immediate departure, subject to the following conditions:
 
 - Employer must be actively E-Verify compliant at the time of the Strike
 - Worker must have no violations beyond the triggering Strike
 - Conversion counts as the one standard WCV renewal; the worker does not receive a fresh clock
-- The 5-year Door 2 bar under Section 5.1 remains in full effect; the Labor Bridge is not an amnesty provision
+- The 5-year Door 2 bar under Section 5.1 remains in full effect; the Labor Bridge is not an amnesty provision and does not reduce, waive, or defer any penalty associated with the Strike
 
 **Wind-Down WCV — Sectoral Staggering**
 
-Where DHS determines that mass simultaneous Strike 1 departures in a specific sector would cause critical supply chain disruption, DHS may trigger a Sectoral Staggering mechanism. Affected workers are issued a Wind-Down WCV expiring in phases (e.g., 25% every 6 months), ensuring the law's intent — transition or departure — is eventually met while preventing acute economic shock. DHS must publish a Sectoral Staggering declaration in the Federal Register with supporting economic findings. Staggering authority is time-limited and may not be used to indefinitely defer compliance.
+Where DHS determines that mass simultaneous Strike 1 departures within a specific NAICS code sector would cause critical supply chain disruption, DHS may trigger a Sectoral Staggering mechanism as defined in Section 1.5. Affected workers are issued a Wind-Down WCV expiring in phases (e.g., 25% every 6 months), ensuring the law's intent — transition or departure — is eventually met while preventing acute economic shock. DHS must publish a Sectoral Staggering declaration in the Federal Register with supporting economic findings within 30 days of triggering the mechanism. Staggering authority is time-limited and may not be used to indefinitely defer compliance obligations.
 
 ---
 
@@ -482,7 +495,11 @@ Triggered by second post-enactment violation.
 
 **Capacity Benchmarking**
 
-The 36-month transition period is tied to immigration court capacity benchmarks established by the Executive Office for Immigration Review (EOIR) within 90 days of enactment. If court staffing and caseload capacity benchmarks are not met, the transition period shall extend automatically in 6-month increments until benchmarks are satisfied, preventing a compliance cliff absent adjudicative capacity.
+The 36-month transition period is tied to immigration court capacity benchmarks established by the Executive Office for Immigration Review (EOIR) within 90 days of enactment. Benchmarks shall include minimum staffing levels, per-judge caseload targets, and processing time standards for IIDPA-related matters. If benchmarks are not met at any 6-month review interval, the transition period shall extend automatically in 6-month increments until benchmarks are satisfied.
+
+**Mandatory Supplemental Appropriation Trigger**
+
+If EOIR reports that benchmarks have not been met at any 6-month review interval, a mandatory supplemental appropriation of up to $500 million shall be automatically triggered from the baseline appropriation reserve established in Section 9 to fund emergency hiring and infrastructure. The Secretary of Homeland Security shall submit a corrective action plan to Congress within 30 days of any missed benchmark. Any corrective action plan submitted under this Section shall be placed on the legislative calendar under expedited consideration procedures comparable to budget reconciliation timelines and shall be eligible for discharge from committee after 60 days if not reported.
 
 ---
 
@@ -536,21 +553,25 @@ Mandatory periodic GAO audits with enforceable corrective deadlines shall supple
 - Capped appropriations not to exceed **$15-$30 billion over 10 years**
 - No unlimited mandatory spending authorized
 
+**Baseline Appropriation Floor**
+
+A mandatory minimum appropriation of $1.5 billion per fiscal year is established for the first 7 years following enactment to fund core operational components of this Act. Penalty and fee revenues shall supplement but not replace this baseline. The floor adjusts annually for inflation consistent with the Consumer Price Index. If penalty revenues decline as a result of successful enforcement and compliance, the baseline appropriation shall not be reduced on that basis. This baseline appropriation shall be treated as mandatory funding for operational continuity and shall not be offset, rescinded, or reprogrammed based on fluctuations in penalty or fee revenue.
+
 **Immigration Court Expansion**
 
 A dedicated appropriation for immigration court expansion is established within the EOIR budget, separate from DHS/DOL reallocations, calibrated to projected caseload generated by Four Doors intake. This appropriation shall fund surge hiring of immigration judges, asylum officers, and administrative law judges, with a staffing needs assessment required within 90 days of enactment.
 
 **IIDPA Adjudication Office**
 
-A dedicated IIDPA Adjudication Office shall be established within USCIS to process Four Doors pathway applications, offloading volume from immigration courts during the transition period.
+A dedicated IIDPA Adjudication Office shall be established within USCIS to process uncontested Door 2 and Door 3 pathway applications through a non-adversarial administrative track, reserving EOIR immigration court capacity for contested denials, Strike challenges, and formal appeals. This administrative off-ramp is designed to prevent compliance volume from overwhelming immigration court dockets during the transition period.
 
 **Door 1 Surge Capacity**
 
-Dedicated funding for Door 1 processing infrastructure, including biometric enrollment capacity, departure logistics, and coordination with high-volume receiving countries, to ensure processing speed sufficient to maintain the deterrence value of voluntary departure.
+Dedicated funding for Door 1 processing infrastructure, including biometric enrollment capacity, departure logistics, and coordination with high-volume receiving countries, to ensure processing speed sufficient to maintain the deterrence and rational-choice value of voluntary departure.
 
 **Bilateral Return Protocols**
 
-The Secretary of State shall negotiate Expedited Return Protocols with high-volume sending nations within 18 months of enactment. Nations cooperating on orderly Door 1 returns shall be eligible to receive a portion of penalty fees collected under Section 4.11 to assist with reintegration programs, converting Door 1 from a unilateral U.S. action into a diplomatic instrument with financial incentives for cooperation.
+The Secretary of State shall negotiate Expedited Return Protocols with high-volume sending nations within 18 months of enactment. Nations cooperating on orderly Door 1 returns shall be eligible to receive a portion of penalty fees collected under Section 4.11 to assist with reintegration programs, converting Door 1 from a unilateral U.S. action into a diplomatic instrument with financial incentives for sending-country cooperation.
 
 **Interim Implementation Budget Trigger**
 
