@@ -86,12 +86,13 @@ Congress finds that:
 | **Compliance window** | The 180-day period designated by DHS for pathway applications |
 | **Enhanced voluntary departure** | Voluntary departure consistent with INA §240B, with biometric verification and penalty waivers |
 | **Existing deferred action recipient** | Any individual holding active DACA status or analogous deferred action status as of the date of enactment, as documented by USCIS records |
-| **Manufactured statelessness** | Statelessness resulting from voluntary renunciation of citizenship, fraudulent misrepresentation of nationality, or other self-induced acts undertaken for the purpose of circumventing removal or obtaining immigration benefits under this Act |
+| **Manufactured statelessness** | Statelessness resulting from voluntary renunciation of citizenship, fraudulent misrepresentation of nationality, or other self-induced acts undertaken for the purpose of circumventing removal or obtaining immigration benefits under this Act. Does not include denationalization imposed by a foreign state as a result of persecution, ethnic cleansing, political retaliation, or conduct constituting crimes against humanity under international law |
 | **Minor civil immigration violation** | Overstay or lapse under 180 days without fraud or criminal conduct |
 | **Stateless person** | An individual who is not considered a national by any state under the operation of its law, consistent with Article 1 of the 1954 Convention Relating to the Status of Stateless Persons |
 | **Unaccompanied minor** | A child who has no lawful immigration status in the United States, has not attained 18 years of age, and who has been separated from both parents or is being sought to be admitted to the United States without a parent or legal guardian, consistent with 6 U.S.C. §279(g)(2) |
 | **Unlawful presence** | Presence without admission or parole as described in INA §212(a)(9)(B) |
 | **Worker Compliance Visa (WCV)** | Temporary, renewable nonimmigrant classification under Door 3 |
+| **Wind-Down WCV** | A time-limited WCV issued to Strike 1 recipients in a staggered sector under Section 5.4, conferring temporary lawful presence and work authorization but not counting toward continuous residence requirements for Door 2 |
 
 #### Process & Oversight Terms
 
@@ -111,7 +112,7 @@ Congress finds that:
 | **Approved third-party auditor** | A CPA or labor compliance firm authorized by the DOL to conduct Integrity Audits, independent of the audited entity |
 | **Common control** | As defined by 26 U.S.C. §414(b)-(c), including parent-subsidiary relationships, brother-sister corporations, and affiliated service groups |
 | **Good Faith Compliance Certificate** | A one-time certification issued upon successful completion of a DOL-approved Integrity Audit that provides a safe harbor against fragmentation presumptions for prior business restructuring |
-| **Sectoral staggering** | The DHS-managed, phased departure of Strike-eligible workers within a specific NAICS code sector to prevent critical supply chain disruption |
+| **Sectoral staggering** | The DHS-managed, phased departure of Strike-eligible workers within a specific NAICS 3-digit code sector, authorized under Section 5.4 to prevent critical supply chain disruption |
 | **Small employer** | An employer with fewer than 50 employees, calculated by aggregating all entities under common control as defined by 26 U.S.C. §414(b)-(c) |
 
 #### Qualification Requirements
@@ -164,13 +165,24 @@ These factors do not individually constitute reasonable articulable suspicion. T
 
 ### 2.3 Evidentiary Exclusion
 
-Evidence obtained through egregious or bad-faith violations of this Section is inadmissible in civil immigration proceedings, consistent with *INS v. Lopez-Mendoza* (1984).
+Evidence obtained through egregious or bad-faith violations of this Section is inadmissible in civil immigration proceedings, consistent with *INS v. Lopez-Mendoza* (1984). Evidence obtained through stops determined under Section 2.5 to constitute a pretextual enforcement pattern shall be inadmissible in civil immigration proceedings regardless of whether the individual stop meets the egregious threshold under this Section.
 
 ---
 
 ### 2.4 Data-Privacy Standards
 
 DHS must implement data-minimization consistent with 6 U.S.C. §1523(b).
+
+---
+
+### 2.5 Agency-Level Accountability for Pretextual Enforcement Patterns
+
+Where the Office of Inspector General or a federal court determines that a state or local law enforcement agency has engaged in a pattern of pretextual stops resulting in immigration status checks in violation of Section 2.2, the following consequences apply:
+
+- The agency shall be subject to a civil monetary penalty of not less than $50,000 per substantiated pattern finding, assessed against the agency rather than individual officers
+- Findings of three or more substantiated pretextual stop patterns within a 24-month period constitute a systemic violation triggering mandatory DOJ review and potential suspension of federal law enforcement grant funding under 34 U.S.C. §10151 et seq.
+- Evidence obtained through stops determined to constitute a pretextual enforcement pattern shall be inadmissible in civil immigration proceedings regardless of whether the individual stop meets the egregious threshold under Section 2.3
+- Nothing in this subsection creates individual civil liability for officers acting in good faith on a lawful traffic or criminal stop predicate
 
 ---
 
@@ -257,8 +269,12 @@ Existing deferred action recipients with disqualifying offenses under Section 3 
 - Manufactured statelessness as defined in Section 1.5 does not qualify for stateless person protections under this Section
 - Voluntary renunciation of citizenship is a disqualifying basis for stateless person protections
 - False claims of statelessness constitute fraudulent application under INA §212(a)(6)(C)
-- Statelessness occurring within 5 years of application triggers heightened scrutiny for manufactured statelessness, including cross-referencing of foreign nationality records through the integrated data system
+- Statelessness occurring within 5 years of application triggers heightened scrutiny, including cross-referencing of foreign nationality records through the integrated data system
 - Only individuals who had no meaningful agency in becoming stateless qualify for protections under this Section
+
+**Persecution-Based Denationalization Carve-Out**
+
+Denationalization imposed by a foreign state as a direct result of ethnic persecution, religious persecution, political retaliation, or conduct constituting crimes against humanity under international law shall not constitute manufactured statelessness regardless of the timing of the denationalization relative to the applicant's departure or application. An applicant claiming this exemption must demonstrate by a preponderance of the evidence that the denationalization was state-imposed rather than voluntarily sought, and that it was causally connected to protected characteristics or political status rather than to conduct by the applicant. USCIS shall consult UNHCR country condition reports and State Department human rights assessments in making this determination.
 
 #### 4.1.4 Zadvydas Compliance
 
@@ -310,6 +326,7 @@ Any noncitizen without a disqualifying offense may elect enhanced voluntary depa
 - Departure arrangements
 - One-time use
 - Election of Door 1 constitutes a knowing and voluntary waiver of INA §240 proceedings. This waiver is effective upon biometric enrollment and signed acknowledgment, and forecloses subsequent appeals to remain in the country on the basis of the same underlying immigration status. The waiver shall be administered in the applicant's primary language with access to legal counsel at personal expense prior to signing.
+- Election of Door 1 constitutes a waiver of the right to file a defensive asylum claim under INA §208 based on the same pre-departure circumstances. This waiver does not apply to asylum claims based on materially new evidence of persecution arising after the date of departure. Any post-departure asylum claim must be filed through a U.S. embassy or consulate in the country of return and must demonstrate that the basis for the claim did not exist or was not reasonably discoverable prior to departure. Claims filed at a port of entry or within the United States following a Door 1 departure shall be presumptively barred absent clear and convincing evidence of new post-departure persecution.
 
 #### 4.5 Outcomes
 
@@ -317,7 +334,7 @@ Any noncitizen without a disqualifying offense may elect enhanced voluntary depa
 - Penalty waiver
 - No Strike applied
 - Eligible for future lawful entry
-- **Priority Queue:** Door 1 electors are placed in a priority queue for certain nonimmigrant visa categories, including H-2A agricultural visas and Door 3 Worker Compliance Visas, providing a tangible and expedited path to lawful return compared to individuals who have not engaged with the compliance system
+- **Priority Queue:** Door 1 electors are placed in a priority queue for certain nonimmigrant visa categories, including H-2A agricultural visas and Door 3 Worker Compliance Visas, providing a tangible and expedited path to lawful return compared to individuals who have not engaged with the compliance system. Wind-Down WCV holders who depart within the 60-day window following staggering expiration under Section 5.4 shall be eligible for this Priority Queue on equal terms with standard Enhanced Voluntary Departure electors.
 
 #### 4.6 Limitations
 
@@ -362,7 +379,7 @@ Any noncitizen without a disqualifying offense may elect enhanced voluntary depa
 Amends INA §274A:
 
 - 5-year national phase-in beginning with a pilot in 5 states
-- Small-employer exemption for employers with fewer than 50 employees, calculated under the aggregation rules in Section 4.11
+- Small-employer exemption for employers with fewer than 50 employees, calculated under the aggregation rules below
 - Funding per Section 9
 
 **Anti-Fragmentation Clause**
@@ -425,10 +442,6 @@ Strike 1 recipients currently employed by an E-Verify compliant employer at the 
 - Conversion counts as the one standard WCV renewal; the worker does not receive a fresh clock
 - The 5-year Door 2 bar under Section 5.1 remains in full effect; the Labor Bridge is not an amnesty provision and does not reduce, waive, or defer any penalty associated with the Strike
 
-**Wind-Down WCV — Sectoral Staggering**
-
-Where DHS determines that mass simultaneous Strike 1 departures within a specific NAICS code sector would cause critical supply chain disruption, DHS may trigger a Sectoral Staggering mechanism as defined in Section 1.5. Affected workers are issued a Wind-Down WCV expiring in phases (e.g., 25% every 6 months), ensuring the law's intent — transition or departure — is eventually met while preventing acute economic shock. DHS must publish a Sectoral Staggering declaration in the Federal Register with supporting economic findings within 30 days of triggering the mechanism. Staggering authority is time-limited and may not be used to indefinitely defer compliance obligations.
-
 ---
 
 ### Door 4 — National Service Track
@@ -486,6 +499,24 @@ Triggered by second post-enactment violation.
 - Strikes are tolled during the pendency of bona fide asylum claims consistent with Section 3A.2
 - Strikes do not apply to unaccompanied minors consistent with Section 4.2.1
 
+### 5.4 Sectoral Staggering Authority
+
+**(a) Triggering Event**
+
+The Secretary of DHS may authorize staggered departures for Strike 1 recipients within a specific NAICS 3-digit sector only upon joint certification by the Secretary of Agriculture and the Secretary of Labor that a projected labor shortfall exceeding 15% of the total workforce in that sector is imminent within a 90-day window, as evidenced by Bureau of Labor Statistics Job Openings and Labor Turnover Survey (JOLTS) data and USDA Farm Labor Survey (FLS) regional reports. DHS must publish a Sectoral Staggering declaration in the Federal Register with supporting economic findings within 30 days of triggering the mechanism.
+
+**(b) Duration and Renewals**
+
+Authorization shall be issued in 180-day increments. Each renewal requires re-certification of the 15% shortfall threshold by the Secretary of Agriculture and Secretary of Labor. Under no circumstances shall staggering for a single NAICS 3-digit code exceed 730 days (24 months) from the date of the initial trigger. No extensions or exceptions to this cap are permitted.
+
+**(c) Wind-Down WCV**
+
+Individuals subject to staggering shall be issued a Wind-Down WCV as defined in Section 1.5. This visa confers temporary lawful presence and work authorization but does not count toward the continuous residence requirements of Door 2 and does not constitute a renewal for purposes of the standard WCV renewal limit under Section 4.12.
+
+**(d) Termination and Departure**
+
+Upon expiration of the staggering period, any Wind-Down WCV holder who has not transitioned to a permanent Door shall be eligible for Enhanced Voluntary Departure under Section 4.3. Failure to depart within 60 days of staggering expiration results in an automatic Strike 2 and permanent ineligibility for all Doors. Wind-Down WCV holders who depart within the 60-day window following staggering expiration shall be eligible for the Door 1 Priority Queue under Section 4.5 on equal terms with standard Enhanced Voluntary Departure electors.
+
 ---
 
 ## Section 6. Retroactivity and Transition
@@ -525,6 +556,7 @@ Annual reports shall include:
 - Enforcement fairness metrics disaggregated by demographics
 - Border and labor enforcement metrics
 - Door utilization and processing time data
+- Pretextual stop pattern findings under Section 2.5
 
 Mandatory periodic GAO audits with enforceable corrective deadlines shall supplement annual IG reporting.
 
@@ -636,4 +668,4 @@ Annual public reporting on:
 
 ---
 
-*Immigration Integrity and Due Process Act — Draft for Public Comment*
+*Immigration Integrity and Due Process Act — Final Draft*
