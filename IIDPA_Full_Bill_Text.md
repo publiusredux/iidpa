@@ -22,6 +22,9 @@
 | [Section 11](#section-11-effective-date) | Effective Date |
 | [Section 12](#section-12-border-security--humanitarian-provisions) | Border Security & Humanitarian Provisions |
 | [Section 13](#section-13-rule-of-construction) | Rule of Construction |
+| [Section 14](#section-14-definitions-governance-and-interpretive-authority) | Definitions Governance and Interpretive Authority |
+| [Section 15](#section-15-implementation-authority) | Implementation Authority |
+| [Section 16](#section-16-federal-preemption) | Federal Preemption |
 
 ---
 
@@ -142,9 +145,9 @@ Congress finds that:
 
 ### 2.1 Requirements for Stops and Identification
 
-- No officer may detain, stop, or compel identification absent **reasonable articulable suspicion of a violation of federal immigration law or other criminal offense**
-- Immigration status alone is insufficient
-- This does **not** modify border-checkpoint authority under 8 U.S.C. §1357(a)(3)
+- No officer may detain, stop, or compel identification absent **reasonable articulable suspicion of a violation of federal immigration law or other criminal offense**, applicable to interior enforcement
+- This standard does not apply to border checkpoints or border zone enforcement, which remain governed by existing authority under 8 U.S.C. §1357(a)(3) and applicable Supreme Court precedent
+- Immigration status alone is insufficient to establish reasonable articulable suspicion
 
 ---
 
@@ -595,7 +598,7 @@ A dedicated appropriation for immigration court expansion is established within 
 
 **IIDPA Adjudication Office**
 
-A dedicated IIDPA Adjudication Office shall be established within USCIS to process uncontested Door 2 and Door 3 pathway applications through a non-adversarial administrative track, reserving EOIR immigration court capacity for contested denials, Strike challenges, and formal appeals. This administrative off-ramp is designed to prevent compliance volume from overwhelming immigration court dockets during the transition period.
+A dedicated IIDPA Adjudication Office shall be established within USCIS to process uncontested Door 2 and Door 3 pathway applications through a non-adversarial administrative track, reserving EOIR immigration court capacity for contested denials, Strike challenges, and formal appeals.
 
 **Door 1 Surge Capacity**
 
@@ -603,7 +606,7 @@ Dedicated funding for Door 1 processing infrastructure, including biometric enro
 
 **Bilateral Return Protocols**
 
-The Secretary of State shall negotiate Expedited Return Protocols with high-volume sending nations within 18 months of enactment. Nations cooperating on orderly Door 1 returns shall be eligible to receive a portion of penalty fees collected under Section 4.11 to assist with reintegration programs, converting Door 1 from a unilateral U.S. action into a diplomatic instrument with financial incentives for sending-country cooperation.
+The Secretary of State shall negotiate Expedited Return Protocols with high-volume sending nations within 18 months of enactment. Nations cooperating on orderly Door 1 returns shall be eligible to receive a portion of penalty fees collected under Section 4.11 to assist with reintegration programs.
 
 **Interim Implementation Budget Trigger**
 
@@ -661,6 +664,120 @@ Annual public reporting on:
 - Nothing in this Act creates new rights beyond those guaranteed by existing constitutional law
 - Nothing in this Act shall be construed to limit or modify rights guaranteed by the Fifth Amendment, the Fourth Amendment, or INA §240
 - DHS and USCIS shall issue implementing regulations within 180 days of enactment consistent with the Administrative Procedure Act
+
+---
+
+## Section 14. Definitions Governance and Interpretive Authority
+
+### 14.1 Centralized Interpretive Authority
+
+Primary interpretive authority over this Act is assigned as follows:
+
+- **DHS** holds primary authority over operational definitions governing enforcement, compliance, and pathway administration
+- **USCIS** holds primary authority over benefits eligibility determinations and pathway classification
+- **DOJ/EOIR** holds primary authority over adjudicatory interpretation in contested proceedings
+
+Where interpretive conflict arises between agencies, DHS interpretation governs unless the disputed term relates solely to adjudicatory procedure, in which case EOIR interpretation governs subject to judicial review.
+
+### 14.2 Deference Structure
+
+- DHS and USCIS interpretations of ambiguous statutory terms shall govern initial administrative application and shall receive Skidmore-weight deference in federal court proceedings absent a clear contrary statutory indication
+- EOIR interpretations of adjudicatory procedure shall govern case proceedings and shall receive equivalent deference in appellate review
+- No agency interpretation shall expand or contract the scope of any defined term beyond the plain meaning established in Section 1.5 without notice-and-comment rulemaking under 5 U.S.C. §553
+- Courts shall apply Skidmore-weight deference to reasonable agency interpretations issued through notice-and-comment rulemaking
+
+### 14.3 Consistency Requirement
+
+- All definitions in Section 1.5 shall be interpreted consistently across DHS, USCIS, DOL, and EOIR unless this Act expressly provides otherwise
+- DHS may issue binding interpretive guidance subject to notice-and-comment rulemaking to resolve cross-agency definitional inconsistencies
+- Field offices shall apply definitions uniformly consistent with DHS interpretive guidance; deviation from published guidance constitutes a substantiated basis for corrective action under Section 8.3
+
+### 14.4 Definition Amendment Process
+
+- No agency may unilaterally modify a defined term in Section 1.5 through informal guidance, policy memorandum, or agency instruction
+- Modifications to definitions require notice-and-comment rulemaking with a minimum 60-day public comment period
+- Congress retains exclusive authority to amend statutory definitions through legislation
+
+### 14.5 Preservation of Statutory Judicial Review
+
+Nothing in this Act shall alter the statutory standards of judicial review under INA §242, except to the extent consistent with applicable administrative law deference doctrines. The deference structure established in Section 14.2 shall operate within and not in conflict with the judicial review framework of INA §242. Where a direct conflict arises between agency interpretive authority under this Act and the judicial review framework of INA §242, the standards and procedures of INA §242 shall control.
+
+---
+
+## Section 15. Implementation Authority
+
+### 15.1 Emergency Hiring Authority
+
+Notwithstanding any other provision of law governing federal competitive service hiring under 5 U.S.C. §3301 et seq., and consistent with excepted service authority under 5 U.S.C. §§2103 and 3302:
+
+- DHS, DOJ, and USCIS are authorized to use expedited hiring procedures for immigration judges, asylum officers, USCIS adjudicators, and IT security personnel required for IIDPA implementation
+- Agencies may offer term-limited adjudication appointments not subject to standard competitive service timelines for an initial period not to exceed 4 years, renewable once
+- Reemployed annuitants and contract adjudicators may be engaged without regard to dual compensation restrictions under 5 U.S.C. §5532 for the duration of the transition period defined in Section 6
+- OPM shall establish an IIDPA priority hiring track within 90 days of enactment with streamlined security clearance processing for non-sensitive adjudicatory positions
+
+### 15.2 IT Procurement Authority
+
+Notwithstanding standard Federal Acquisition Regulation (FAR) timelines:
+
+- DHS is authorized to use streamlined acquisition procedures consistent with FAR Part 13 simplified acquisition thresholds, expanded to cover IIDPA integrated data system contracts not exceeding $150 million per contract action
+- Interagency data system contracting authority is established, permitting DHS to contract on behalf of DOL and DOJ for integrated system components without separate agency procurement actions
+- DHS shall designate the integrated data system as a national security system for procurement priority purposes, enabling accelerated award timelines
+- A cybersecurity governance framework consistent with NIST SP 800-53 standards shall be established within 180 days of enactment and shall govern all IIDPA data system components
+
+### 15.3 Fund Transfer and Reprogramming Authority
+
+- DHS and DOJ are authorized to transfer and reprogram funds within their respective appropriations for IIDPA implementation purposes, subject to a cap of 15% of any single appropriation account per fiscal year
+- Reprogramming actions exceeding $10 million require 30-day advance notification to the House and Senate Appropriations Committees
+- Transfer authority expires 7 years after enactment coinciding with the baseline appropriation floor established in Section 9
+
+### 15.4 IIDPA Program Management Office
+
+A centralized IIDPA Program Management Office (PMO) shall be established within DHS within 90 days of enactment to serve as the coordination node for all implementing agencies including DHS, USCIS, DOJ, EOIR, DOL, and the State Department.
+
+The PMO Director shall be a Senior Executive Service position appointed by the Secretary of Homeland Security.
+
+The PMO shall exercise administrative and operational authority only and shall have no adjudicatory authority over individual immigration cases, preserving the independence of EOIR proceedings. The PMO shall have authority to:
+
+- Establish interoperability standards for the integrated data system
+- Resolve inter-agency coordination disputes on implementation timelines
+- Report directly to the Secretary of Homeland Security and publish quarterly implementation status reports to Congress
+- Enforce uniform application of definitions and procedures across field offices
+
+No agency data system component shall be declared operational without PMO certification of system interoperability.
+
+---
+
+## Section 16. Federal Preemption
+
+### 16.1 Express Preemption
+
+This Act occupies the field of civil immigration enforcement procedures, compliance pathways, and immigration status determination systems governed herein. No state or locality may enact or enforce any law, regulation, ordinance, or policy that:
+
+- Establishes parallel civil immigration enforcement procedures inconsistent with this Act
+- Creates immigration-status-based detention triggers independent of federal standards under Section 2
+- Imposes state-level immigration compliance penalties on employers beyond those authorized under Sections 4.10 and 4.11
+- Establishes parallel immigration status verification systems inconsistent with DHS integrated data system standards
+
+### 16.2 Preemption of Conflicting State Enforcement Mechanisms
+
+- State and local immigration-status-based detention authority is preempted to the extent it conflicts with the enforcement standards of Section 2
+- State employer verification systems that conflict with or duplicate the E-Verify framework established under Section 4.10 are preempted upon the date E-Verify phase-in reaches the relevant state
+- State or local databases containing immigration status information that conflict with DHS integrated data system standards are preempted upon DHS certification of integrated system operational status
+
+### 16.3 Savings Clause
+
+Nothing in this Act preempts:
+
+- State criminal law enforcement unrelated to immigration status determination
+- State and local law enforcement cooperation with federal immigration enforcement when conducted consistent with DHS protocols and the enforcement standards of Section 2
+- State social services, labor, or public health laws of general applicability that do not specifically target immigration status
+- State laws governing employer conduct that are consistent with and do not conflict with the E-Verify framework and employer penalty structure of Sections 4.10 and 4.11
+
+### 16.4 Data System Exclusivity
+
+- States and localities may not establish or maintain immigration status databases that are inconsistent with, duplicative of, or in conflict with the DHS integrated data system established under this Act
+- State law enforcement agencies that participate in information sharing under this Act shall do so exclusively through DHS-authorized data access protocols
+- Unauthorized state data system integration constitutes a basis for suspension of federal law enforcement grant funding under 34 U.S.C. §10151 et seq.
 
 ---
 
